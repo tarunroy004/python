@@ -1,0 +1,11 @@
+str = 'my self Tarun'
+print(str.upper())
+print(str.lower())
+print(str.capitalize())
+print(str.islower())
+print(str.isupper())
+print(str.index("T"))
+print(str.find("T"))
+print(str.encode())
+print(str.isspace())
+print(str.replace("T", "B"))

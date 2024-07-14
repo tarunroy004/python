@@ -1,0 +1,11 @@
+a = float(input("Enter a Number : "))
+b = float(input("Enter another Number : "))
+print("\n")
+print("Sum of", a, "and", b, "is : ", a+b)
+print("Difference between", a, "and", b, "is : ", a-b)
+print("Multiplication of", a, "and", b, "is : ", a*b)
+print("Division in", a, "and", b, "is : ", a/b)
+print("Integer Division in", a, "and", b, "is : ", a//b)
+print(a, "to the power", b, "is : ", a**b)
+print("Modulo of", a, "to", b, "is : ", a%b)
+
